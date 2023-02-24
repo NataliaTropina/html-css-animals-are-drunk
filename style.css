@@ -1,0 +1,78 @@
+h1 {
+    display: block;
+    color: rgb(152, 226, 42);
+    text-align: center;
+}
+.subheader {
+    color:darkgreen;
+    text-align:center;
+    font-weight: bold;
+    font-size: large;
+}
+
+img {
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin: auto;
+}
+
+.intro {
+    display: block;
+    font-weight: bolder;
+    font-size: larger;
+    color: midnightblue;
+}
+    .main-text {
+    display:table;
+    margin: auto;
+    white-space: pre-line;    
+    font-weight: bold;
+    font-size: large;
+    color: rgb(37, 33, 33);
+    }
+
+    #text-more {
+    display: table;
+    margin: auto;
+    white-space: pre-line;
+    color: red;
+    font-size: large;
+    font-style: italic;     
+    }
+
+    .bald-idea {
+    display: table;
+    margin: auto;
+    white-space: pre-line;
+    color: blueviolet;
+    font-size:larger;
+    font-style: oblique;
+    text-decoration: underline;
+    }
+
+    #idea3 {
+        color: brown;
+        font-weight: bolder;
+        font-size: large;
+        font-style: inherit;
+        text-decoration:line-through;
+        
+    }
+
+    #endtext {
+        color: darkcyan;
+        font-size: large;
+        font-weight: bold;
+        font-style:initial;
+        text-decoration:overline;
+    }
+
+   h3 {
+    text-align: center;
+    }
+    .footer-element {
+        text-align: center;
+        font-size: medium;
+        font-style: italic;
+    }
